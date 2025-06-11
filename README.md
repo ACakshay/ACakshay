@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Chordia @ACakshay
-- 👨‍💻 AI Engineer @ Publicis sapient
+- 👨‍💻 AI Engineer @ Publicis sapient building [Slingshot](https://www.publicissapient.com/sapient-ai/sapient-slingshot)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -15,8 +15,14 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/akshay--chordia/"><img src="https://img.shields.io/badge/-Hooman%20Sedghamiz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akshay--chordia/">
+    <img src="https://img.shields.io/badge/-Akshay%20Chordia-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+
+
+
 <!---
 ACakshay/ACakshay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
